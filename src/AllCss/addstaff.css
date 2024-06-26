@@ -1,0 +1,28 @@
+.bgcolloring{
+    width: 100% !important;
+    height: 100% !important;
+
+    background-color: #dbdbdb9d;
+}
+.tabledata{
+    height: 100% !important;
+    width: 400px;
+}
+.ciedit{
+    color: #21ff21;
+    cursor: pointer; 
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    
+}
+.cdelete{
+    color: #ff0f0f;
+    cursor: pointer; 
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.carddata{
+    width: 100%;
+}

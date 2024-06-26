@@ -1,0 +1,48 @@
+.container-fluid {
+    padding: 0;
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    padding: 48px 0 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.897);
+    background-color: #5D0E41;
+  }
+  
+  .nav-link {
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+    display: block;
+    transition: all 0.3s ease;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    margin-top: 8px;
+   
+  
+}
+  
+  .nav-link:hover {
+    background-color: #5D0E41;
+    
+  }
+  
+  .main-content {
+    margin-left: 240px; 
+  }
+  .outlets{
+    position: fixed;
+    left: 240px;
+  }
+.flex-column{
+  align-items: baseline;
+  margin-left: 20px;
+}

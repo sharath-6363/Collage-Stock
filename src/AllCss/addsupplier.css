@@ -1,0 +1,74 @@
+
+
+.staff-container {
+    background-color: #f2f2f2;
+    padding: 5px;
+  }
+  
+  .staff-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    width: 70%;
+  }
+  
+  .staff-table {
+    width: 100%;
+  }
+  
+  .staff-table th, .staff-table td {
+    padding: 10px;
+  }
+  
+  .staff-table th {
+    /* background-color: #007bff; */
+    color: #fff;
+  }
+  
+  .staff-form-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-left: 10px;
+  }
+  
+  .close-button {
+    float: right;
+    cursor: pointer;
+    font-size: 24px;
+    color: #555;
+  }
+  
+  .form-header {
+    margin-bottom: 10px;
+  }
+  
+  .form-header input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .action-buttons button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .edit-icon, .delete-icon {
+    color: #007bff;
+  }
+  
+  .edit-icon:hover, .delete-icon:hover {
+    color: #0056b3;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  

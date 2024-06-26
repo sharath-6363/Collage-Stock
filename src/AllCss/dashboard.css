@@ -1,0 +1,37 @@
+.dashboard{
+   
+    margin-top: 35px;
+    padding: 20px;
+    border: 1px solid #0000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    width: 400px;
+    margin: 50px;
+    &&:hover{
+        cursor: pointer;
+        border: 1px solid #0000;
+        box-shadow: 0px 0px 10px #0000;
+        background-color: #ececec;
+        transition: 0.5s;
+        transform: scale(1.01);
+        -webkit-transform: scale(1.01);
+        -moz-transform: scale(1.08);
+        -ms-transform: scale(1.01);
+        -o-transform: scale(1.01);
+    }
+}
+.box h2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+.textbg{
+    color:rgb(41, 206, 41)
+}

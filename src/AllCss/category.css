@@ -1,0 +1,8 @@
+.catview{
+    height: 350px !important;
+    overflow: scroll;
+}
+.tableview{
+    height: 350px !important;
+    
+}
